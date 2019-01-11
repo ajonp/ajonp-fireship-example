@@ -45,9 +45,9 @@ This post first appeared as [Episode 55 on AngularFirebase.com](https://angularf
 ## Step 0: Prerequisites
 
 
-1. {{< prereq "install-nodejs" >}}
-1. {{< prereq "install-angular" >}}
-1. {{< prereq "install-angularfire" >}}
+1. {{/* < prereq "install-nodejs" > */}}
+1. {{/* < prereq "install-angular" > */}}
+1. {{/* < prereq "install-angularfire" > */}}
 
 
 ## Step 1: Initial Firebase Setup
