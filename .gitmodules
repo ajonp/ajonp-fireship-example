@@ -1,0 +1,3 @@
+[submodule "themes/ajonp-fireship-theme"]
+	path = themes/ajonp-fireship-theme
+	url = https://github.com/ajonp/ajonp-fireship-theme.git
